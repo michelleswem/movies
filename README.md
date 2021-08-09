@@ -1,6 +1,6 @@
 
 ## A Simple project that allow users to add movies and fetch movies.
-### preview link:
+### preview link:https://movies-app12.netlify.app/
 
 # Getting Started with Create React App
 
